@@ -1,0 +1,22 @@
+{
+    "image2": {
+        "data": "hwQQABAAAAAAAAABEAAAAAAAEBERAQAAAAAAEREAAAAAAAAQAQAAAAAAABABAAAAAAAAEAEAAAAAAAAQAQAAAAAAABABAAAAAAAAEAEAAAAAAAAREQAAAAAAEBERAQAAAAAAARAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "HONE"
+    },
+    "image1": {
+        "data": "hwQQABAAAAAAABEREREAAAAAABERERERAAAiIhIREQEAACIiEhEBAAAAIiIiERERAAAiIiIREQEAEREiIhEBABERESIiEQEAEBERISIRAQAREREfIhEBABHxEfEhERERERHx/yEREQEREfHxIREBABDxEfEhEREBERERHyEREQAAEBEREhEBAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "INNU"
+    },
+    "image3": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAADw/w8AAAAA8P///wAAAAD//xH/DwAAAPD/Ef8PAAAAAP///w8AAAAA//8fDwAAAAD///8PAAAA8P8R/w8AAAD//xH/DwAAAPD///8AAAAAAPD/DwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "KUMO"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
